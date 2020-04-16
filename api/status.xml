@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <rooms>
+        <id>1</id>
+        <name>Quarto</name>
+        <slug>quarto</slug>
+        <devices>
+            <id>1</id>
+            <name>Lâmpada 1</name>
+            <slug>lampada</slug>
+            <status>1</status>
+        </devices>
+        <devices>
+            <id>2</id>
+            <name>Lâmpada 2</name>
+            <slug>lampada</slug>
+            <status>0</status>
+        </devices>
+        <devices>
+            <id>3</id>
+            <name>Ventilador</name>
+            <slug>ventilador</slug>
+            <status>1</status>
+        </devices>
+    </rooms>
+    <rooms>
+        <id>2</id>
+        <name>Sala de estar</name>
+        <slug>sala_de_estar</slug>
+        <devices>
+            <id>1</id>
+            <name>Lâmpada 1</name>
+            <slug>lampada_1</slug>
+            <status>1</status>
+        </devices>
+    </rooms>
+</root>

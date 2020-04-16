@@ -1,0 +1,42 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Quarto",
+      "slug": "quarto",
+      "devices": [
+        {
+          "id": 1,
+          "name": "Lâmpada 1",
+          "slug": "lampada",
+          "status": 1
+        },
+        {
+          "id": 2,
+          "name": "Lâmpada 2",
+          "slug": "lampada",
+          "status": 0
+        },
+        {
+          "id": 3,
+          "name": "Ventilador",
+          "slug": "ventilador",
+          "status": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sala de estar",
+      "slug": "sala_de_estar",
+      "devices": [
+        {
+          "id": 1,
+          "name": "Lâmpada 1",
+          "slug": "lampada_1",
+          "status": 1
+        }
+      ]
+    }
+  ]
+}
